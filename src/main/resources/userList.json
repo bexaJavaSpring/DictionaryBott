@@ -1,0 +1,38 @@
+[
+  {
+    "firstName": "Izzatullayev Behruz B-9",
+    "chatId": "958536406",
+    "phoneNumber": "+998936207516",
+    "round": 2,
+    "userStatus": "ADMIN",
+    "isRegister": true,
+    "confirmation": 29058,
+    "hasAdvertisement": false,
+    "userMessages": [],
+    "isWritingMessage": false
+  },
+  {
+    "firstName": "Bexruz Izzatullayev B-9",
+    "chatId": "2080721911",
+    "phoneNumber": "+998906355276",
+    "round": 2,
+    "userStatus": "USER",
+    "isRegister": true,
+    "confirmation": 42844,
+    "hasAdvertisement": false,
+    "userMessages": [],
+    "isWritingMessage": false
+  },
+  {
+    "firstName": "Madinabonu",
+    "chatId": "2124992435",
+    "phoneNumber": "998995703815",
+    "round": 2,
+    "userStatus": "USER",
+    "isRegister": false,
+    "confirmation": 81720,
+    "hasAdvertisement": false,
+    "userMessages": [],
+    "isWritingMessage": false
+  }
+]
